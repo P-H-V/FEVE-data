@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-17T20:30:00Z",
+  "databases": {
+    "cookbook": {
+      "version": "2026.0917.1",
+      "recordCount": 321,
+      "contentHash": "sha256:7f71b19420a91645adaf1c519d9eacd4a1cbd24536a74ded491c296422620b7c",
+      "downloadUrl": "https://raw.githubusercontent.com/P-H-V/FEVE-data/main/cookbook/cookbook.db",
+      "size": 616747,
+      "compression": "none"
+    },
+    "articles": {
+      "version": "2026.0917.1",
+      "recordCount": 15,
+      "contentHash": "sha256:64555e9df36e946ee791bcbdb6637fd6aedc7e4d9422acd54007e884738247fc",
+      "downloadUrl": "https://raw.githubusercontent.com/P-H-V/FEVE-data/main/articles/articles.db",
+      "size": 96529,
+      "compression": "none"
+    },
+    "products": {
+      "version": "2026.0917.1",
+      "recordCount": 85,
+      "contentHash": "sha256:a9b03a31b23fd4a921228b410f329b95be10fc38950b681b3e588c37bd6febc0",
+      "downloadUrl": "https://raw.githubusercontent.com/P-H-V/FEVE-data/main/products/products.db",
+      "size": 86792,
+      "compression": "none"
+    }
+  },
+  "images": {
+    "version": "2026.0917.1",
+    "manifestUrl": "https://raw.githubusercontent.com/P-H-V/FEMIA-images/main/image-manifest.json",
+    "totalSize": 0,
+    "imageCount": 41
+  }
+}
