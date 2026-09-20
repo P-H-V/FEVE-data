@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T19:59:36.619Z",
+  "generatedAt": "2026-09-20T22:07:12.412Z",
   "databases": {
     "cookbook": {
-      "version": "2026.20260917.611",
+      "version": "2026.20260921.404",
       "recordCount": 321,
-      "contentHash": "sha256:fb19bf4d88640dc1f03a1fefa2d305e6d172f29136f700325dd355a3fee58f1f",
+      "contentHash": "sha256:a5388dc73a37ad36b46fcec709622fccec7b53efd65ce07167bf911549be7403",
       "downloadUrl": "https://raw.githubusercontent.com/P-H-V/FEVE-data/main/cookbook/cookbook.db",
-      "size": 616957,
+      "size": 617171,
       "compression": "none"
     },
     "articles": {
-      "version": "2026.20260917.615",
+      "version": "2026.20260921.410",
       "recordCount": 15,
       "contentHash": "sha256:64555e9df36e946ee791bcbdb6637fd6aedc7e4d9422acd54007e884738247fc",
       "downloadUrl": "https://raw.githubusercontent.com/P-H-V/FEVE-data/main/articles/articles.db",
@@ -19,7 +19,7 @@
       "compression": "none"
     },
     "products": {
-      "version": "2026.20260917.618",
+      "version": "2026.20260921.411",
       "recordCount": 85,
       "contentHash": "sha256:a9b03a31b23fd4a921228b410f329b95be10fc38950b681b3e588c37bd6febc0",
       "downloadUrl": "https://raw.githubusercontent.com/P-H-V/FEVE-data/main/products/products.db",
@@ -28,7 +28,7 @@
     }
   },
   "images": {
-    "version": "2026.20260917.1",
+    "version": "2026.20260921.1",
     "manifestUrl": "https://raw.githubusercontent.com/P-H-V/FEVE-images/main/image-manifest.json",
     "totalSize": 0,
     "imageCount": 0
