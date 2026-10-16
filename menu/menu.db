@@ -1,35 +1,33 @@
 {
-  "menuVisibility": {
-    "menu": {
-      "calendar": true,
-      "recipes": true,
-      "articles": true,
-      "products": false,
-      "insights": false,
-      "club": true,
-      "settings": true,
-      "saintsFeasts": true,
-      "biometricLogin": true,
-      "disclaimer": true,
-      "reset": true,
-      "pregnancySupport": false
-    },
-    "menu_order_main": [
-      "calendar",
-      "recipes",
-      "articles",
-      "products",
-      "insights",
-      "club",
-      "biometricLogin",
-      "settings"
-    ],
-    "menu_order_settings": [
-      "saintsFeasts",
-      "pregnancySupport",
-      "disclaimer",
-      "reset"
-    ],
-    "version": 6
-  }
+ "menu": {
+  "calendar": true,
+  "recipes": true,
+  "articles": true,
+  "products": false,
+  "insights": false,
+  "club": true,
+  "settings": true,
+  "saintsFeasts": true,
+  "biometricLogin": true,
+  "disclaimer": true,
+  "reset": true,
+  "pregnancySupport": false
+ },
+ "menu_order_main": [
+  "calendar",
+  "recipes",
+  "articles",
+  "products",
+  "insights",
+  "club",
+  "biometricLogin",
+  "settings"
+ ],
+ "menu_order_settings": [
+  "saintsFeasts",
+  "pregnancySupport",
+  "disclaimer",
+  "reset"
+ ],
+ "version": 6
 }
