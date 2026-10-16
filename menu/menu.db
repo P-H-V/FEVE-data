@@ -11,7 +11,7 @@
   "biometricLogin": true,
   "disclaimer": true,
   "reset": true,
-  "pregnancySupport": false
+  "pregnancySupport": true
  },
  "menu_order_main": [
   "calendar",
